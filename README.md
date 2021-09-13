@@ -40,6 +40,8 @@ Requisitos não Funcionais:
 #### LINK DO GITHUB
 https://github.com/DaviNeves0/SmartTag
 
+- Imagens do projeto incluídas nesse github.
+
 
 ### Tecnologias adotadas na solução
 
