@@ -1,6 +1,8 @@
 ﻿
 ## Projeto Integrador: 2019-2
 - Aplicativo SmartTag -
+
+
 ![image](https://user-images.githubusercontent.com/56441411/138635198-e4ba4348-bcf0-4467-913a-71d53a8a7375.png)
 
 A proposta desse projeto foi, a partir de um problema ou necessidade do dia a dia, criar uma solução fazendo uso da tecnologia Internet of Things(IOT) - Internet das coisas.
