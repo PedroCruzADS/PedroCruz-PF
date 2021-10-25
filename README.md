@@ -8,10 +8,12 @@ Atualmente estudo na FATEC de São José dos Campos, e como experiência para me
 ## Meus Projetos
 
 ### - Em 2019 -
-[SmartData](https://github.com/PedroCruzADS/PedroCruz-PF/blob/main/API%202019-2.SmartTag.md)
+[SmartTAG](https://github.com/PedroCruzADS/PedroCruz-PF/blob/main/API%202019-2.SmartTag.md)
 
 ### - Em 2020 -
+[SmartData](https://github.com/PedroCruzADS/PedroCruz-PF/blob/main/API%202020-1.SmartData.md)
 [JumboETL](https://github.com/PedroCruzADS/PedroCruz-PF/blob/main/API%202020-2-JumboETL.md)
+
 
 ### Em 2021
 [EasyAta](https://github.com/PedroCruzADS/PedroCruz-PF/blob/main/API%202021-1-EasyAta.md)
