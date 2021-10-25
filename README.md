@@ -51,7 +51,6 @@
 	    - MySQL
 	    - MariaDB
   
-
 ## Contatos
 * [GIT](https://github.com/PedroCruzADS)
 * [LinkedIn](www.linkedin.com/in/pedro-cruz77)
