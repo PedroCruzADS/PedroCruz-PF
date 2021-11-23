@@ -94,8 +94,8 @@ Ao decorrer do semestre e do projeto, junto de outros desenvolvedores eu pude es
 
 ### [](https://github.com/DaviNeves0/Portfolio_DaviNeves/blob/master/API%202020-2%20JumboETL%20.md#aprendizados-efetivos-hs)Aprendizados Efetivos HS
 
--  Desenvolver códigos em Java: Sei utilizar com autonomia;
+- Desenvolver códigos em Java: Sei utilizar com autonomia;
 - Desenvolver códigos em JavaScript: Sei utilizar com ajuda
--  	Criação de queries e manuseio de banco de dados MySQL: Sei utilizar com autonomia;
--  Criar e organizar a estrutura do projeto em padrão MVC: Sei utilizar com autonomia;
--  Metodologias Scrum: Conceitos aprendidos na prática;
+- Criação de queries e manuseio de banco de dados MySQL: Sei utilizar com autonomia;
+- Criar e organizar a estrutura do projeto em padrão MVC: Sei utilizar com autonomia;
+- Metodologias Scrum: Conceitos aprendidos na prática;
